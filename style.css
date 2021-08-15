@@ -36,6 +36,7 @@ p{
 }
 .bg-img{
 background-image: url(pic/bg-photo.png);
+width: 100%;
 }
 h3{
     font-size: 40px;
